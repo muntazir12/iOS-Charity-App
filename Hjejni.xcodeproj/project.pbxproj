@@ -7,6 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B5DEA931BE52CF9000B09F3 /* SendMessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5DEA921BE52CF9000B09F3 /* SendMessageViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8B82EC4E1C173B7300CB5AB2 /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B82EC4D1C173B7300CB5AB2 /* AboutUsViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8B82EC501C173C6000CB5AB2 /* PrivacyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B82EC4F1C173C6000CB5AB2 /* PrivacyViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8B9045BE1BE38E6C00D7C8E8 /* hajTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9045BD1BE38E6C00D7C8E8 /* hajTableViewCell.swift */; settings = {ASSET_TAGS = (); }; };
+		8B9045C01BE3D4A600D7C8E8 /* HajDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9045BF1BE3D4A600D7C8E8 /* HajDetailViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8B9045C21BE5017200D7C8E8 /* UmrahDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9045C11BE5017000D7C8E8 /* UmrahDetailViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8B9D60EE1BE9090D00650C13 /* previousHajViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9D60ED1BE9090D00650C13 /* previousHajViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8B9D60F01BE9215700650C13 /* previousUmrahViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9D60EF1BE9215700650C13 /* previousUmrahViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8B9DF8601BDFF8E4002309EA /* LoginPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9DF85F1BDFF8E4002309EA /* LoginPageViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8BA55E761BE620E600A6407D /* receivedMessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA55E751BE620E600A6407D /* receivedMessageViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8BA55E781BE6348300A6407D /* messageDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA55E771BE6348300A6407D /* messageDetailViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8BB00A8F1BF079E200394748 /* forgotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB00A8E1BF079E200394748 /* forgotPasswordViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8BC8F8DC1BE0CC68004DAA8E /* Message-32.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BC8F8DB1BE0CC68004DAA8E /* Message-32.png */; settings = {ASSET_TAGS = (); }; };
+		8BC8F8DE1BE0D1D1004DAA8E /* Mosque-32.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BC8F8DD1BE0D1D1004DAA8E /* Mosque-32.png */; settings = {ASSET_TAGS = (); }; };
+		8BC8F8E11BE0D1DB004DAA8E /* Donate-32.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BC8F8DF1BE0D1DB004DAA8E /* Donate-32.png */; settings = {ASSET_TAGS = (); }; };
+		8BC8F8E21BE0D1DB004DAA8E /* Quran-32.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BC8F8E01BE0D1DB004DAA8E /* Quran-32.png */; settings = {ASSET_TAGS = (); }; };
+		8BC8F92C1BE10BFC004DAA8E /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC8F92B1BE10BFC004DAA8E /* Repository.swift */; settings = {ASSET_TAGS = (); }; };
+		8BC8F92E1BE11B36004DAA8E /* HajViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC8F92D1BE11B36004DAA8E /* HajViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8BC8F9301BE11B8D004DAA8E /* HajRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC8F92F1BE11B8D004DAA8E /* HajRepository.swift */; settings = {ASSET_TAGS = (); }; };
+		8BC8F9321BE11C8D004DAA8E /* UmrahViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC8F9311BE11C8D004DAA8E /* UmrahViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8BC8F9361BE11E30004DAA8E /* DonorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC8F9351BE11E30004DAA8E /* DonorViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8BC8F9381BE12782004DAA8E /* HajRequestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC8F9371BE12782004DAA8E /* HajRequestViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8BC8F93A1BE12796004DAA8E /* UmrahRequestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC8F9391BE12796004DAA8E /* UmrahRequestViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8BC8F93C1BE127A9004DAA8E /* DonorRequestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC8F93B1BE127A9004DAA8E /* DonorRequestViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		8BD371EA1BDF599B0097BBAC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD371E91BDF599B0097BBAC /* AppDelegate.swift */; };
 		8BD371EC1BDF599B0097BBAC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD371EB1BDF599B0097BBAC /* ViewController.swift */; };
 		8BD371EF1BDF599B0097BBAC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BD371ED1BDF599B0097BBAC /* Main.storyboard */; };
@@ -14,6 +38,14 @@
 		8BD371F41BDF599B0097BBAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BD371F21BDF599B0097BBAC /* LaunchScreen.storyboard */; };
 		8BD371FF1BDF599B0097BBAC /* HjejniTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD371FE1BDF599B0097BBAC /* HjejniTests.swift */; };
 		8BD3720A1BDF599B0097BBAC /* HjejniUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD372091BDF599B0097BBAC /* HjejniUITests.swift */; };
+		8BD372181BDF5C260097BBAC /* logo_hjejni.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BD372171BDF5C260097BBAC /* logo_hjejni.png */; settings = {ASSET_TAGS = (); }; };
+		8BD3721C1BDF6DE30097BBAC /* RegisterPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD3721B1BDF6DE30097BBAC /* RegisterPageViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8BD7AB6F1BE74B5B005B25F4 /* Contacts-32.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BD7AB6E1BE74B5B005B25F4 /* Contacts-32.png */; settings = {ASSET_TAGS = (); }; };
+		8BD7AB711BE74C51005B25F4 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD7AB701BE74C51005B25F4 /* ProfileViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8BD7AB731BE7635F005B25F4 /* messageTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD7AB721BE7635F005B25F4 /* messageTableViewCell.swift */; settings = {ASSET_TAGS = (); }; };
+		8BD7AB751BE78147005B25F4 /* statusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD7AB741BE78147005B25F4 /* statusViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8BD7AB791BE7A459005B25F4 /* welcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD7AB781BE7A459005B25F4 /* welcomeViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		8BD7E6721BE2A0BC00E0BB3F /* Back-25.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BD7E6711BE2A0BC00E0BB3F /* Back-25.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +66,32 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8B1AC4F11C0617C100B1AB2C /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Main.strings; sourceTree = "<group>"; };
+		8B1AC4F21C0617C100B1AB2C /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		8B5DEA921BE52CF9000B09F3 /* SendMessageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SendMessageViewController.swift; sourceTree = "<group>"; };
+		8B82EC4D1C173B7300CB5AB2 /* AboutUsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutUsViewController.swift; sourceTree = "<group>"; };
+		8B82EC4F1C173C6000CB5AB2 /* PrivacyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrivacyViewController.swift; sourceTree = "<group>"; };
+		8B9045BD1BE38E6C00D7C8E8 /* hajTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = hajTableViewCell.swift; sourceTree = "<group>"; };
+		8B9045BF1BE3D4A600D7C8E8 /* HajDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HajDetailViewController.swift; sourceTree = "<group>"; };
+		8B9045C11BE5017000D7C8E8 /* UmrahDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UmrahDetailViewController.swift; sourceTree = "<group>"; };
+		8B9D60ED1BE9090D00650C13 /* previousHajViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = previousHajViewController.swift; sourceTree = "<group>"; };
+		8B9D60EF1BE9215700650C13 /* previousUmrahViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = previousUmrahViewController.swift; sourceTree = "<group>"; };
+		8B9DF85F1BDFF8E4002309EA /* LoginPageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginPageViewController.swift; sourceTree = "<group>"; };
+		8BA55E751BE620E600A6407D /* receivedMessageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = receivedMessageViewController.swift; sourceTree = "<group>"; };
+		8BA55E771BE6348300A6407D /* messageDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = messageDetailViewController.swift; sourceTree = "<group>"; };
+		8BB00A8E1BF079E200394748 /* forgotPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = forgotPasswordViewController.swift; sourceTree = "<group>"; };
+		8BC8F8DB1BE0CC68004DAA8E /* Message-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Message-32.png"; path = "images/Message-32.png"; sourceTree = "<group>"; };
+		8BC8F8DD1BE0D1D1004DAA8E /* Mosque-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Mosque-32.png"; path = "images/Mosque-32.png"; sourceTree = "<group>"; };
+		8BC8F8DF1BE0D1DB004DAA8E /* Donate-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Donate-32.png"; path = "images/Donate-32.png"; sourceTree = "<group>"; };
+		8BC8F8E01BE0D1DB004DAA8E /* Quran-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Quran-32.png"; path = "images/Quran-32.png"; sourceTree = "<group>"; };
+		8BC8F92B1BE10BFC004DAA8E /* Repository.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Repository.swift; sourceTree = "<group>"; };
+		8BC8F92D1BE11B36004DAA8E /* HajViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HajViewController.swift; sourceTree = "<group>"; };
+		8BC8F92F1BE11B8D004DAA8E /* HajRepository.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HajRepository.swift; sourceTree = "<group>"; };
+		8BC8F9311BE11C8D004DAA8E /* UmrahViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UmrahViewController.swift; sourceTree = "<group>"; };
+		8BC8F9351BE11E30004DAA8E /* DonorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DonorViewController.swift; sourceTree = "<group>"; };
+		8BC8F9371BE12782004DAA8E /* HajRequestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HajRequestViewController.swift; sourceTree = "<group>"; };
+		8BC8F9391BE12796004DAA8E /* UmrahRequestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UmrahRequestViewController.swift; sourceTree = "<group>"; };
+		8BC8F93B1BE127A9004DAA8E /* DonorRequestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DonorRequestViewController.swift; sourceTree = "<group>"; };
 		8BD371E61BDF599B0097BBAC /* Hjejni.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hjejni.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BD371E91BDF599B0097BBAC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8BD371EB1BDF599B0097BBAC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +105,14 @@
 		8BD372051BDF599B0097BBAC /* HjejniUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HjejniUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BD372091BDF599B0097BBAC /* HjejniUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HjejniUITests.swift; sourceTree = "<group>"; };
 		8BD3720B1BDF599B0097BBAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8BD372171BDF5C260097BBAC /* logo_hjejni.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo_hjejni.png; path = images/logo_hjejni.png; sourceTree = "<group>"; };
+		8BD3721B1BDF6DE30097BBAC /* RegisterPageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterPageViewController.swift; sourceTree = "<group>"; };
+		8BD7AB6E1BE74B5B005B25F4 /* Contacts-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Contacts-32.png"; path = "images/Contacts-32.png"; sourceTree = "<group>"; };
+		8BD7AB701BE74C51005B25F4 /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		8BD7AB721BE7635F005B25F4 /* messageTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = messageTableViewCell.swift; sourceTree = "<group>"; };
+		8BD7AB741BE78147005B25F4 /* statusViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = statusViewController.swift; sourceTree = "<group>"; };
+		8BD7AB781BE7A459005B25F4 /* welcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = welcomeViewController.swift; sourceTree = "<group>"; };
+		8BD7E6711BE2A0BC00E0BB3F /* Back-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Back-25.png"; path = "images/Back-25.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +163,44 @@
 		8BD371E81BDF599B0097BBAC /* Hjejni */ = {
 			isa = PBXGroup;
 			children = (
+				8BD372171BDF5C260097BBAC /* logo_hjejni.png */,
+				8BC8F8DB1BE0CC68004DAA8E /* Message-32.png */,
+				8BC8F8DD1BE0D1D1004DAA8E /* Mosque-32.png */,
+				8BC8F8DF1BE0D1DB004DAA8E /* Donate-32.png */,
+				8BC8F8E01BE0D1DB004DAA8E /* Quran-32.png */,
+				8BD7E6711BE2A0BC00E0BB3F /* Back-25.png */,
+				8BD7AB6E1BE74B5B005B25F4 /* Contacts-32.png */,
 				8BD371E91BDF599B0097BBAC /* AppDelegate.swift */,
 				8BD371EB1BDF599B0097BBAC /* ViewController.swift */,
 				8BD371ED1BDF599B0097BBAC /* Main.storyboard */,
 				8BD371F01BDF599B0097BBAC /* Assets.xcassets */,
 				8BD371F21BDF599B0097BBAC /* LaunchScreen.storyboard */,
 				8BD371F51BDF599B0097BBAC /* Info.plist */,
+				8BD3721B1BDF6DE30097BBAC /* RegisterPageViewController.swift */,
+				8B9DF85F1BDFF8E4002309EA /* LoginPageViewController.swift */,
+				8BC8F92B1BE10BFC004DAA8E /* Repository.swift */,
+				8BC8F92D1BE11B36004DAA8E /* HajViewController.swift */,
+				8BC8F92F1BE11B8D004DAA8E /* HajRepository.swift */,
+				8BC8F9311BE11C8D004DAA8E /* UmrahViewController.swift */,
+				8BC8F9351BE11E30004DAA8E /* DonorViewController.swift */,
+				8BC8F9371BE12782004DAA8E /* HajRequestViewController.swift */,
+				8BC8F9391BE12796004DAA8E /* UmrahRequestViewController.swift */,
+				8BC8F93B1BE127A9004DAA8E /* DonorRequestViewController.swift */,
+				8B9045BD1BE38E6C00D7C8E8 /* hajTableViewCell.swift */,
+				8B9045BF1BE3D4A600D7C8E8 /* HajDetailViewController.swift */,
+				8B9045C11BE5017000D7C8E8 /* UmrahDetailViewController.swift */,
+				8B5DEA921BE52CF9000B09F3 /* SendMessageViewController.swift */,
+				8BA55E751BE620E600A6407D /* receivedMessageViewController.swift */,
+				8BA55E771BE6348300A6407D /* messageDetailViewController.swift */,
+				8BD7AB701BE74C51005B25F4 /* ProfileViewController.swift */,
+				8BD7AB721BE7635F005B25F4 /* messageTableViewCell.swift */,
+				8BD7AB741BE78147005B25F4 /* statusViewController.swift */,
+				8BD7AB781BE7A459005B25F4 /* welcomeViewController.swift */,
+				8B9D60ED1BE9090D00650C13 /* previousHajViewController.swift */,
+				8B9D60EF1BE9215700650C13 /* previousUmrahViewController.swift */,
+				8BB00A8E1BF079E200394748 /* forgotPasswordViewController.swift */,
+				8B82EC4D1C173B7300CB5AB2 /* AboutUsViewController.swift */,
+				8B82EC4F1C173C6000CB5AB2 /* PrivacyViewController.swift */,
 			);
 			path = Hjejni;
 			sourceTree = "<group>";
@@ -231,8 +329,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BC8F8E21BE0D1DB004DAA8E /* Quran-32.png in Resources */,
 				8BD371F41BDF599B0097BBAC /* LaunchScreen.storyboard in Resources */,
+				8BD7E6721BE2A0BC00E0BB3F /* Back-25.png in Resources */,
+				8BD7AB6F1BE74B5B005B25F4 /* Contacts-32.png in Resources */,
 				8BD371F11BDF599B0097BBAC /* Assets.xcassets in Resources */,
+				8BC8F8DE1BE0D1D1004DAA8E /* Mosque-32.png in Resources */,
+				8BC8F8E11BE0D1DB004DAA8E /* Donate-32.png in Resources */,
+				8BD372181BDF5C260097BBAC /* logo_hjejni.png in Resources */,
+				8BC8F8DC1BE0CC68004DAA8E /* Message-32.png in Resources */,
 				8BD371EF1BDF599B0097BBAC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -258,8 +363,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BC8F9321BE11C8D004DAA8E /* UmrahViewController.swift in Sources */,
 				8BD371EC1BDF599B0097BBAC /* ViewController.swift in Sources */,
+				8BC8F93C1BE127A9004DAA8E /* DonorRequestViewController.swift in Sources */,
+				8B9DF8601BDFF8E4002309EA /* LoginPageViewController.swift in Sources */,
+				8BC8F92C1BE10BFC004DAA8E /* Repository.swift in Sources */,
+				8BA55E781BE6348300A6407D /* messageDetailViewController.swift in Sources */,
+				8BD7AB751BE78147005B25F4 /* statusViewController.swift in Sources */,
+				8BD7AB791BE7A459005B25F4 /* welcomeViewController.swift in Sources */,
+				8B9045C01BE3D4A600D7C8E8 /* HajDetailViewController.swift in Sources */,
+				8BC8F9301BE11B8D004DAA8E /* HajRepository.swift in Sources */,
+				8BC8F9361BE11E30004DAA8E /* DonorViewController.swift in Sources */,
+				8BD7AB711BE74C51005B25F4 /* ProfileViewController.swift in Sources */,
+				8B5DEA931BE52CF9000B09F3 /* SendMessageViewController.swift in Sources */,
+				8B9045C21BE5017200D7C8E8 /* UmrahDetailViewController.swift in Sources */,
+				8B82EC501C173C6000CB5AB2 /* PrivacyViewController.swift in Sources */,
+				8B82EC4E1C173B7300CB5AB2 /* AboutUsViewController.swift in Sources */,
+				8B9D60EE1BE9090D00650C13 /* previousHajViewController.swift in Sources */,
+				8BC8F93A1BE12796004DAA8E /* UmrahRequestViewController.swift in Sources */,
+				8BD7AB731BE7635F005B25F4 /* messageTableViewCell.swift in Sources */,
+				8BC8F9381BE12782004DAA8E /* HajRequestViewController.swift in Sources */,
+				8B9045BE1BE38E6C00D7C8E8 /* hajTableViewCell.swift in Sources */,
 				8BD371EA1BDF599B0097BBAC /* AppDelegate.swift in Sources */,
+				8BA55E761BE620E600A6407D /* receivedMessageViewController.swift in Sources */,
+				8BC8F92E1BE11B36004DAA8E /* HajViewController.swift in Sources */,
+				8BD3721C1BDF6DE30097BBAC /* RegisterPageViewController.swift in Sources */,
+				8BB00A8F1BF079E200394748 /* forgotPasswordViewController.swift in Sources */,
+				8B9D60F01BE9215700650C13 /* previousUmrahViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +429,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				8BD371EE1BDF599B0097BBAC /* Base */,
+				8B1AC4F11C0617C100B1AB2C /* ar */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -307,6 +438,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				8BD371F31BDF599B0097BBAC /* Base */,
+				8B1AC4F21C0617C100B1AB2C /* ar */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -486,6 +618,7 @@
 				8BD372101BDF599B0097BBAC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8BD372111BDF599B0097BBAC /* Build configuration list for PBXNativeTarget "HjejniTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +627,7 @@
 				8BD372131BDF599B0097BBAC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8BD372141BDF599B0097BBAC /* Build configuration list for PBXNativeTarget "HjejniUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +636,7 @@
 				8BD372161BDF599B0097BBAC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

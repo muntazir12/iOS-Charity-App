@@ -1,0 +1,522 @@
+
+/* Class = "UIButton"; normalTitle = "Start Using Hjejni"; ObjectID = "0Pn-a0-wYY"; */
+"0Pn-a0-wYY.normalTitle" = "بدء استخدام التطبيق";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "18m-3g-sb8"; */
+"18m-3g-sb8.normalTitle" = "تسجيل خروج";
+
+/* Class = "UINavigationItem"; title = "Login"; ObjectID = "1m1-cP-VvT"; */
+"1m1-cP-VvT.title" = "تسجيل الدخول";
+
+/* Class = "UINavigationItem"; title = "Messages"; ObjectID = "1qi-YI-p9I"; */
+"1qi-YI-p9I.title" = "رسائل";
+
+/* Class = "UILabel"; text = "Country : "; ObjectID = "2c5-ir-EJd"; */
+"2c5-ir-EJd.text" = "بلد : ";
+
+/* Class = "UILabel"; text = "Date of birth : "; ObjectID = "3i2-sr-iXt"; */
+"3i2-sr-iXt.text" = "تاريخ الميلاد : ";
+
+/* Class = "UILabel"; text = "Status : "; ObjectID = "4UY-Zu-JPy"; */
+"4UY-Zu-JPy.text" = "الحالة : ";
+
+/* Class = "UILabel"; text = "Country :"; ObjectID = "5wi-hg-Mwa"; */
+"5wi-hg-Mwa.text" = "بلد : ";
+
+/* Class = "UILabel"; text = "Country :"; ObjectID = "7Ne-0b-chR"; */
+"7Ne-0b-chR.text" = "بلد : ";
+
+/* Class = "UISearchBar"; placeholder = "Search Umrah"; ObjectID = "7Q7-Er-86W"; */
+"7Q7-Er-86W.placeholder" = "بحث العمرة";
+
+/* Class = "UINavigationItem"; title = "Haj"; ObjectID = "7R4-n1-YSC"; */
+"7R4-n1-YSC.title" = "حج";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "7iS-HA-fio"; */
+"7iS-HA-fio.text" = "بريد الالكتروني";
+
+/* Class = "UILabel"; text = "Date Of Birth :"; ObjectID = "7nT-DB-ZAy"; */
+"7nT-DB-ZAy.text" = "تاريخ الميلاد : ";
+
+/* Class = "UILabel"; text = "Date Of Birth  :"; ObjectID = "8Cv-ZN-Fp0"; */
+"8Cv-ZN-Fp0.text" = "تاريخ الميلاد : ";
+
+/* Class = "UILabel"; text = "Country : "; ObjectID = "8sV-bB-Pjk"; */
+"8sV-bB-Pjk.text" = "بلد : ";
+
+/* Class = "UILabel"; text = "Name : "; ObjectID = "9Id-yU-KqK"; */
+"9Id-yU-KqK.text" = "اسم : ";
+
+/* Class = "UINavigationItem"; title = "Previous Umrah Request"; ObjectID = "9JP-jT-reo"; */
+"9JP-jT-reo.title" = "طلب العمرة السابق";
+
+/* Class = "UIButton"; normalTitle = "View Previous Request by User"; ObjectID = "9OE-C8-fYI"; */
+"9OE-C8-fYI.normalTitle" = "عرض طلب سابق من قبل المستخدم";
+
+/* Class = "UITabBarItem"; title = "Messages"; ObjectID = "9OZ-lR-mOs"; */
+"9OZ-lR-mOs.title" = "رسائل";
+
+/* Class = "UILabel"; text = "Date Of Birth :"; ObjectID = "9Yj-xB-iSE"; */
+"9Yj-xB-iSE.text" = "تاريخ الميلاد : ";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "9ao-Gl-QaJ"; */
+"9ao-Gl-QaJ.normalTitle" = "عرض";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "9o1-A9-arh"; */
+"9o1-A9-arh.normalTitle" = "عرض";
+
+/* Class = "UINavigationItem"; title = "Send Message"; ObjectID = "9wc-aG-wbH"; */
+"9wc-aG-wbH.title" = "أرسل رسالة";
+
+/* Class = "UILabel"; text = "Status : "; ObjectID = "A41-CG-UEX"; */
+"A41-CG-UEX.text" = "الحالة : ";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "ACI-fg-Nlu"; */
+"ACI-fg-Nlu.text" = "اسم";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "BNF-Z9-ItA"; */
+"BNF-Z9-ItA.text" = "اسم";
+
+/* Class = "UIViewController"; title = "Message"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "رسالة";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "Btl-vh-Jan"; */
+"Btl-vh-Jan.normalTitle" = "ل نسيت كلمة المرور؟";
+
+/* Class = "UINavigationItem"; title = "Forgot Password"; ObjectID = "C6g-Y4-8yv"; */
+"C6g-Y4-8yv.title" = "ل نسيت كلمة المرور";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "CTH-LJ-jqb"; */
+"CTH-LJ-jqb.title" = "الملف الشخصي";
+
+/* Class = "UINavigationItem"; title = "Message Detail"; ObjectID = "CqN-mH-idt"; */
+"CqN-mH-idt.title" = "رسالة التفاصيل";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D6x-C5-da8"; */
+"D6x-C5-da8.text" = "Label";
+
+/* Class = "UILabel"; text = "Dependent Family Member : "; ObjectID = "DZO-0J-PZm"; */
+"DZO-0J-PZm.text" = "تعتمد أفراد العائلة : ";
+
+/* Class = "UINavigationItem"; title = "Haj Request Detail"; ObjectID = "DjN-U1-Ntw"; */
+"DjN-U1-Ntw.title" = "الحاج طلب التفاصيل";
+
+/* Class = "UILabel"; text = "Name : "; ObjectID = "Dzj-0D-r1l"; */
+"Dzj-0D-r1l.text" = "اسم : ";
+
+/* Class = "UILabel"; text = "pid"; ObjectID = "EbC-yP-pC0"; */
+"EbC-yP-pC0.text" = "pid";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "F3B-JA-ATB"; */
+"F3B-JA-ATB.text" = "Label";
+
+/* Class = "UILabel"; text = "Gender : "; ObjectID = "FDS-wh-pcL"; */
+"FDS-wh-pcL.text" = "جنس : ";
+
+/* Class = "UILabel"; text = "Country :"; ObjectID = "FRv-Jb-oZ3"; */
+"FRv-Jb-oZ3.text" = "بلد :";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "FmQ-X8-A2H"; */
+"FmQ-X8-A2H.normalTitle" = "إرسال";
+
+/* Class = "UILabel"; text = "rEmail"; ObjectID = "G4Y-87-u4t"; */
+"G4Y-87-u4t.text" = "rEmail";
+
+/* Class = "UILabel"; text = "Name : "; ObjectID = "G9X-WD-yOb"; */
+"G9X-WD-yOb.text" = "اسم : ";
+
+/* Class = "UITextField"; placeholder = "No. of dependent family member"; ObjectID = "GDN-7o-OLW"; */
+"GDN-7o-OLW.placeholder" = "عدد أفراد الأسرة المعالين";
+
+/* Class = "UIViewController"; title = "Umrah"; ObjectID = "GJK-e2-sba"; */
+"GJK-e2-sba.title" = "عمرة";
+
+/* Class = "UIBarButtonItem"; title = "Sent"; ObjectID = "GfM-Ig-BB1"; */
+"GfM-Ig-BB1.title" = "أرسلت";
+
+/* Class = "UILabel"; text = "rPid"; ObjectID = "Gtv-9g-C2X"; */
+"Gtv-9g-C2X.text" = "rPid";
+
+/* Class = "UITextField"; placeholder = "UserName"; ObjectID = "Gyu-Ou-Diy"; */
+"Gyu-Ou-Diy.placeholder" = "اسم المستخدم";
+
+/* Class = "UINavigationItem"; title = "Change Request Status"; ObjectID = "HqY-DZ-c4z"; */
+"HqY-DZ-c4z.title" = "طلب تغيير الحالة";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "I0X-AI-sLc"; */
+"I0X-AI-sLc.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Register as :"; ObjectID = "I1l-sS-aQb"; */
+"I1l-sS-aQb.text" = "كما سجل :";
+
+/* Class = "UITabBarItem"; title = "Umrah"; ObjectID = "I8V-VO-Gap"; */
+"I8V-VO-Gap.title" = "عمرة";
+
+/* Class = "UILabel"; text = "rpid"; ObjectID = "IDw-D4-m6r"; */
+"IDw-D4-m6r.text" = "rpid";
+
+/* Class = "UILabel"; text = "Country :"; ObjectID = "INV-Na-wna"; */
+"INV-Na-wna.text" = "بلد :";
+
+/* Class = "UILabel"; text = "Request Status : "; ObjectID = "Jrw-qc-raE"; */
+"Jrw-qc-raE.text" = "حالة الطلب : ";
+
+/* Class = "UILabel"; text = "Country :"; ObjectID = "KAd-mW-t4Y"; */
+"KAd-mW-t4Y.text" = "بلد :";
+
+/* Class = "UILabel"; text = "Pid"; ObjectID = "KUQ-E8-BFa"; */
+"KUQ-E8-BFa.text" = "Pid";
+
+/* Class = "UILabel"; text = "email"; ObjectID = "Kf8-bN-lrG"; */
+"Kf8-bN-lrG.text" = "بريد الالكتروني";
+
+/* Class = "UILabel"; text = "Name : "; ObjectID = "LZ0-a6-PhL"; */
+"LZ0-a6-PhL.text" = "اسم : ";
+
+/* Class = "UINavigationItem"; title = "Submit Haj Request"; ObjectID = "Lpc-Ln-hps"; */
+"Lpc-Ln-hps.title" = "إرسال طلب الحاج";
+
+/* Class = "UIViewController"; title = "Register"; ObjectID = "Lv0-ig-iZp"; */
+"Lv0-ig-iZp.title" = "تسجيل";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "MrV-Du-9JG"; */
+"MrV-Du-9JG.text" = "تسجيل";
+
+/* Class = "UILabel"; text = "Date of birth : "; ObjectID = "N6a-j6-pPO"; */
+"N6a-j6-pPO.text" = "تاريخ الميلاد : ";
+
+/* Class = "UITextField"; placeholder = "Write Message"; ObjectID = "NO1-Xc-gbc"; */
+"NO1-Xc-gbc.placeholder" = "اكتب رسالة";
+
+/* Class = "UILabel"; text = "Where are you now : "; ObjectID = "Noq-Vj-fWU"; */
+"Noq-Vj-fWU.text" = "أين أنت الآن : ";
+
+/* Class = "UINavigationItem"; title = "Previous Haj Request"; ObjectID = "Nus-st-DEq"; */
+"Nus-st-DEq.title" = "طلب الحج السابق";
+
+/* Class = "UILabel"; text = "Country : "; ObjectID = "Oei-eo-v7l"; */
+"Oei-eo-v7l.text" = "بلد : ";
+
+/* Class = "UIViewController"; title = "messageDetail"; ObjectID = "P1j-oy-sPC"; */
+"P1j-oy-sPC.title" = "messageDetail";
+
+/* Class = "UILabel"; text = "Gender : "; ObjectID = "PF4-fV-9Ok"; */
+"PF4-fV-9Ok.text" = "جنس : ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PKq-Be-qSK"; */
+"PKq-Be-qSK.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Umrah"; ObjectID = "Q7F-M8-vqT"; */
+"Q7F-M8-vqT.title" = "عمرة";
+
+/* Class = "UILabel"; text = "Status : "; ObjectID = "QVE-HR-qdp"; */
+"QVE-HR-qdp.text" = "الحالة : ";
+
+/* Class = "UILabel"; text = "email"; ObjectID = "RYq-RV-0dU"; */
+"RYq-RV-0dU.text" = "email";
+
+/* Class = "UILabel"; text = "Name : "; ObjectID = "S3R-1a-hgd"; */
+"S3R-1a-hgd.text" = "اسم : ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SRs-t1-7Gi"; */
+"SRs-t1-7Gi.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Reply"; ObjectID = "SXP-mS-zDC"; */
+"SXP-mS-zDC.normalTitle" = "رد";
+
+/* Class = "UILabel"; text = "sEmail"; ObjectID = "Snq-4w-igL"; */
+"Snq-4w-igL.text" = "sEmail";
+
+/* Class = "UINavigationItem"; title = "Donor"; ObjectID = "T3z-ET-pq2"; */
+"T3z-ET-pq2.title" = "المانح";
+
+/* Class = "UILabel"; text = "sEmail"; ObjectID = "TIk-MT-Bbs"; */
+"TIk-MT-Bbs.text" = "sEmail";
+
+/* Class = "UIViewController"; title = "Donor"; ObjectID = "TJH-Qy-L1r"; */
+"TJH-Qy-L1r.title" = "المانح";
+
+/* Class = "UILabel"; text = "sEmail"; ObjectID = "TMj-w0-UPg"; */
+"TMj-w0-UPg.text" = "sEmail";
+
+/* Class = "UILabel"; text = "Country :"; ObjectID = "Tub-tT-c6n"; */
+"Tub-tT-c6n.text" = "بلد :";
+
+/* Class = "UILabel"; text = "Where are you now : "; ObjectID = "UcG-Zd-O6h"; */
+"UcG-Zd-O6h.text" = "أين أنت الآن : ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "V3e-YN-8et"; */
+"V3e-YN-8et.text" = "Label";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "VVw-T0-j4N"; */
+"VVw-T0-j4N.text" = "أهلا بك";
+
+/* Class = "UILabel"; text = "Name : "; ObjectID = "VjI-k6-Xry"; */
+"VjI-k6-Xry.text" = "اسم : ";
+
+/* Class = "UILabel"; text = "rtable"; ObjectID = "VpL-NQ-q05"; */
+"VpL-NQ-q05.text" = "rtable";
+
+/* Class = "UILabel"; text = "Name : "; ObjectID = "WTp-UE-lDt"; */
+"WTp-UE-lDt.text" = "اسم : ";
+
+/* Class = "UIButton"; normalTitle = "Not a member? Sign up now"; ObjectID = "Wac-fr-Uwn"; */
+"Wac-fr-Uwn.normalTitle" = "اذا كنت لست بعضو سجل هنا";
+
+/* Class = "UILabel"; text = "rtable"; ObjectID = "WdR-pQ-5iY"; */
+"WdR-pQ-5iY.text" = "rtable";
+
+/* Class = "UISearchBar"; placeholder = "Search Haj"; ObjectID = "Wgl-Wi-qUM"; */
+"Wgl-Wi-qUM.placeholder" = "البحث الحج";
+
+/* Class = "UILabel"; text = "rTable"; ObjectID = "YOB-Vh-4xU"; */
+"YOB-Vh-4xU.text" = "rTable";
+
+/* Class = "UILabel"; text = "Name : "; ObjectID = "YjO-cv-5Ak"; */
+"YjO-cv-5Ak.text" = "اسم : ";
+
+/* Class = "UILabel"; text = "Date of birth : "; ObjectID = "Yoh-Ew-pss"; */
+"Yoh-Ew-pss.text" = "تاريخ الميلاد : ";
+
+/* Class = "UILabel"; text = "Date of birth : "; ObjectID = "Yya-O1-Ax8"; */
+"Yya-O1-Ax8.text" = "تاريخ الميلاد : ";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "ZbS-mK-7Ax"; */
+"ZbS-mK-7Ax.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UIViewController"; title = "previousHaj"; ObjectID = "Zzp-o8-VZ5"; */
+"Zzp-o8-VZ5.title" = "previousHaj";
+
+/* Class = "UILabel"; text = "Gender : "; ObjectID = "aB0-Bq-r0U"; */
+"aB0-Bq-r0U.text" = "جنس : ";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "aRD-wZ-bcT"; */
+"aRD-wZ-bcT.normalTitle" = "تسجيل";
+
+/* Class = "UITextField"; placeholder = "PickerItem"; ObjectID = "aTo-PR-fsV"; */
+"aTo-PR-fsV.placeholder" = "PickerItem";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "aXm-r2-Vi3"; */
+"aXm-r2-Vi3.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UINavigationItem"; title = "Umrah Request Detail"; ObjectID = "bAd-TJ-ShJ"; */
+"bAd-TJ-ShJ.title" = "العمرة الطلب التفاصيل";
+
+/* Class = "UILabel"; text = "Where are you now : "; ObjectID = "bOc-6D-Gp2"; */
+"bOc-6D-Gp2.text" = "أين أنت الآن : ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bVk-ux-sSO"; */
+"bVk-ux-sSO.text" = "Label";
+
+/* Class = "UILabel"; text = "rnm"; ObjectID = "bn0-yH-xzg"; */
+"bn0-yH-xzg.text" = "rnm";
+
+/* Class = "UILabel"; text = "Gender : "; ObjectID = "cNY-Pc-B4i"; */
+"cNY-Pc-B4i.text" = "جنس : ";
+
+/* Class = "UIViewController"; title = "Umrah Request"; ObjectID = "dO1-bZ-xA3"; */
+"dO1-bZ-xA3.title" = "طلب عمرة";
+
+/* Class = "UIViewController"; title = "Donor Request"; ObjectID = "doa-cn-fl6"; */
+"doa-cn-fl6.title" = "طلب المانحة";
+
+/* Class = "UILabel"; text = "Date of birth : "; ObjectID = "dp8-au-NzY"; */
+"dp8-au-NzY.text" = "تاريخ الميلاد : ";
+
+/* Class = "UILabel"; text = "rnm"; ObjectID = "dpq-xo-geY"; */
+"dpq-xo-geY.text" = "rnm";
+
+/* Class = "UIButton"; normalTitle = "Change Request Status"; ObjectID = "eyX-iA-lVo"; */
+"eyX-iA-lVo.normalTitle" = "تغيير حالة الطلب";
+
+/* Class = "UILabel"; text = "rpid"; ObjectID = "ezn-Ju-65m"; */
+"ezn-Ju-65m.text" = "rpid";
+
+/* Class = "UILabel"; text = "pid"; ObjectID = "fJo-LO-8wy"; */
+"fJo-LO-8wy.text" = "pid";
+
+/* Class = "UILabel"; text = "Country :"; ObjectID = "fXc-oa-j5V"; */
+"fXc-oa-j5V.text" = "بلد :";
+
+/* Class = "UILabel"; text = "Status : "; ObjectID = "g3b-fZ-6n7"; */
+"g3b-fZ-6n7.text" = "الحالة : ";
+
+/* Class = "UIViewController"; title = "Haj"; ObjectID = "gbS-p8-xOe"; */
+"gbS-p8-xOe.title" = "حج";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "ge1-8f-jcJ"; */
+"ge1-8f-jcJ.text" = "رسالة";
+
+/* Class = "UITextField"; placeholder = "Date Of Birth"; ObjectID = "goX-27-S2K"; */
+"goX-27-S2K.placeholder" = "تاريخ الميلاد";
+
+/* Class = "UILabel"; text = "rName"; ObjectID = "h5E-Cf-Lxo"; */
+"h5E-Cf-Lxo.text" = "rName";
+
+/* Class = "UINavigationItem"; title = "Submit Donor Request"; ObjectID = "h6Z-4p-5Qc"; */
+"h6Z-4p-5Qc.title" = "تقديم طلب المانحة";
+
+/* Class = "UINavigationItem"; title = "Messages"; ObjectID = "hCo-UQ-G4j"; */
+"hCo-UQ-G4j.title" = "رسائل";
+
+/* Class = "UILabel"; text = "Country :"; ObjectID = "hbZ-FP-RJz"; */
+"hbZ-FP-RJz.text" = "بلد :";
+
+/* Class = "UIButton"; normalTitle = "Send Message"; ObjectID = "hcI-kP-8Mg"; */
+"hcI-kP-8Mg.normalTitle" = "أرسل رسالة";
+
+/* Class = "UIButton"; normalTitle = "Already registered! Login Me."; ObjectID = "hdh-4p-0ld"; */
+"hdh-4p-0ld.normalTitle" = "مسجل بالفعل! تسجيل الدخول عني.";
+
+/* Class = "UITextField"; placeholder = "Date Of Birth"; ObjectID = "hhH-71-xEE"; */
+"hhH-71-xEE.placeholder" = "تاريخ الميلاد";
+
+/* Class = "UILabel"; text = "rEmail"; ObjectID = "ht9-BD-ltV"; */
+"ht9-BD-ltV.text" = "rEmail";
+
+/* Class = "UITextView"; text = "Request or Give Donation for Haj & Umrah"; ObjectID = "iqW-42-GjO"; */
+"iqW-42-GjO.text" = "طلب أو إعطاء التبرع للحج و العمرة";
+
+/* Class = "UILabel"; text = "Date Of Birth  :"; ObjectID = "iz4-wo-kW0"; */
+"iz4-wo-kW0.text" = "تاريخ الميلاد  :";
+
+/* Class = "UIButton"; normalTitle = "Change Status"; ObjectID = "izK-Aq-qXZ"; */
+"izK-Aq-qXZ.normalTitle" = "تغيير الحالة";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "jVn-Oy-TJr"; */
+"jVn-Oy-TJr.text" = "البريد الإلكتروني:";
+
+/* Class = "UILabel"; text = "Gender : "; ObjectID = "jXT-Md-Q6c"; */
+"jXT-Md-Q6c.text" = "جنس : ";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "k4m-Se-tru"; */
+"k4m-Se-tru.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Country : "; ObjectID = "kFq-rD-kai"; */
+"kFq-rD-kai.text" = "بلد : ";
+
+/* Class = "UIViewController"; title = "Login"; ObjectID = "kWX-o7-NE0"; */
+"kWX-o7-NE0.title" = "تسجيل الدخول";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "kgt-VH-3es"; */
+"kgt-VH-3es.placeholder" = "بريد الالكتروني";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "lL4-ks-fwu"; */
+"lL4-ks-fwu.text" = "رسالة";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "lrZ-V3-zwQ"; */
+"lrZ-V3-zwQ.normalTitle" = "حذف";
+
+/* Class = "UINavigationItem"; title = "Register"; ObjectID = "nzC-qV-l9C"; */
+"nzC-qV-l9C.title" = "تسجيل";
+
+/* Class = "UILabel"; text = "Date of birth : "; ObjectID = "ojp-JS-xlJ"; */
+"ojp-JS-xlJ.text" = "تاريخ الميلاد : ";
+
+/* Class = "UILabel"; text = "Country :"; ObjectID = "olu-eQ-Bxc"; */
+"olu-eQ-Bxc.text" = "بلد :";
+
+/* Class = "UIButton"; normalTitle = "Send Message"; ObjectID = "pLx-2A-ZMg"; */
+"pLx-2A-ZMg.normalTitle" = "أرسل رسالة";
+
+/* Class = "UILabel"; text = "Status : "; ObjectID = "pRo-FU-Fq1"; */
+"pRo-FU-Fq1.text" = "الحالة : ";
+
+/* Class = "UILabel"; text = "Name : "; ObjectID = "pee-6j-Brm"; */
+"pee-6j-Brm.text" = "اسم : ";
+
+/* Class = "UILabel"; text = "Gender : "; ObjectID = "pkV-6y-EjZ"; */
+"pkV-6y-EjZ.text" = "جنس : ";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "q5u-Ax-v3Q"; */
+"q5u-Ax-v3Q.title" = "عنوان";
+
+/* Class = "UILabel"; text = "Request Status : "; ObjectID = "rDG-rr-c3T"; */
+"rDG-rr-c3T.text" = "حالة الطلب : ";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "rZB-1G-5Kh"; */
+"rZB-1G-5Kh.title" = "الملف الشخصي";
+
+/* Class = "UITabBarController"; title = "StoryBoard"; ObjectID = "rua-YC-f9W"; */
+"rua-YC-f9W.title" = "StoryBoard";
+
+/* Class = "UILabel"; text = "Request Status : "; ObjectID = "rvo-fU-zRQ"; */
+"rvo-fU-zRQ.text" = "حالة الطلب : ";
+
+/* Class = "UITabBarItem"; title = "Haj"; ObjectID = "sNX-Lk-TCo"; */
+"sNX-Lk-TCo.title" = "حج";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "sc7-RW-okH"; */
+"sc7-RW-okH.normalTitle" = "عرض";
+
+/* Class = "UILabel"; text = "pid"; ObjectID = "siF-u4-kgb"; */
+"siF-u4-kgb.text" = "pid";
+
+/* Class = "UILabel"; text = "Country : "; ObjectID = "tbO-he-Xo3"; */
+"tbO-he-Xo3.text" = "بلد : ";
+
+/* Class = "UIViewController"; title = "Haj Request"; ObjectID = "th6-Ln-o8O"; */
+"th6-Ln-o8O.title" = "طلب الحج";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ti2-K2-Zgl"; */
+"ti2-K2-Zgl.text" = "Label";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "twn-Ii-BKq"; */
+"twn-Ii-BKq.text" = "أهلا بك";
+
+/* Class = "UITextField"; placeholder = "Write Message"; ObjectID = "v15-Fe-hFb"; */
+"v15-Fe-hFb.placeholder" = "رسالة الكتابة";
+
+/* Class = "UILabel"; text = "Request Status : "; ObjectID = "vRr-QF-PhX"; */
+"vRr-QF-PhX.text" = "حالة الطلب : ";
+
+/* Class = "UINavigationItem"; title = "Submit Umrah Request"; ObjectID = "vWx-di-Hvf"; */
+"vWx-di-Hvf.title" = "إرسال العمرة طلب";
+
+/* Class = "UILabel"; text = "Date Of Birth :"; ObjectID = "w05-R1-q7s"; */
+"w05-R1-q7s.text" = "تاريخ الميلاد :";
+
+/* Class = "UITabBarItem"; title = "Donor"; ObjectID = "w18-A5-lTW"; */
+"w18-A5-lTW.title" = "المانح";
+
+/* Class = "UILabel"; text = "Status : "; ObjectID = "wKI-vb-ynA"; */
+"wKI-vb-ynA.text" = "الحالة : ";
+
+/* Class = "UILabel"; text = "rEmail"; ObjectID = "wMo-6C-Stt"; */
+"wMo-6C-Stt.text" = "rEmail";
+
+/* Class = "UILabel"; text = "Dependent Family Member : "; ObjectID = "wnU-69-Q6k"; */
+"wnU-69-Q6k.text" = "تعتمد أفراد العائلة : ";
+
+/* Class = "UISearchBar"; placeholder = "Search Donor"; ObjectID = "wrA-M1-JdG"; */
+"wrA-M1-JdG.placeholder" = "بحث المانحة";
+
+/* Class = "UILabel"; text = "Date Of Birth  :"; ObjectID = "xEf-T5-vbl"; */
+"xEf-T5-vbl.text" = "تاريخ الميلاد  :";
+
+/* Class = "UILabel"; text = "Country : "; ObjectID = "xN1-mP-yuZ"; */
+"xN1-mP-yuZ.text" = "بلد : ";
+
+/* Class = "UILabel"; text = "Date Of Birth  :"; ObjectID = "xfQ-5m-JgO"; */
+"xfQ-5m-JgO.text" = "تاريخ الميلاد  :";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "xoq-IR-DnZ"; */
+"xoq-IR-DnZ.text" = "البريد الإلكتروني";
+
+/* Class = "UILabel"; text = "Country :"; ObjectID = "xv2-WX-dzI"; */
+"xv2-WX-dzI.text" = "بلد :";
+
+/* Class = "UIButton"; normalTitle = "View Previous Request by User"; ObjectID = "yTO-Jl-FfL"; */
+"yTO-Jl-FfL.normalTitle" = "عرض طلب السابق كتبها العضو";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ynY-da-3Tt"; */
+"ynY-da-3Tt.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "No. of dependent family member"; ObjectID = "ywy-2a-0Ip"; */
+"ywy-2a-0Ip.placeholder" = "عدد أفراد الأسرة المعالين";
+
+/* Class = "UILabel"; text = "pid"; ObjectID = "zgv-R8-btQ"; */
+"zgv-R8-btQ.text" = "pid";
+
+/* Class = "UILabel"; text = "Date Of Birth :"; ObjectID = "zhi-3s-KhM"; */
+"zhi-3s-KhM.text" = "تاريخ الميلاد :";
